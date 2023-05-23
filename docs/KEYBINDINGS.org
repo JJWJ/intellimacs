@@ -218,6 +218,7 @@ master branch.
 
 | Key binding | Description                  |
 |-------------+------------------------------|
+| ~SPC t b~   | Toggle visual bell           |
 | ~SPC t i~   | Toggle show indent guide     |
 | ~SPC t l~   | Toggle truncate lines        |
 | ~SPC t n~   | Toggle line numbers          |
